@@ -1,0 +1,34 @@
+[
+    {"role": "user", "content": "quais dias sao bons para tirar ferias ?"},
+    {"role": "assistant", "tool_calls": [
+        {
+            "id": "call_tool_texto",
+            "type": "function",
+            "function": {
+                "arguments": "{\"search_query\":\"quando posso tirar ferias\"}",
+                "name": "search_database"
+            }
+        }
+    ]},
+    {
+        "role": "tool",
+        "tool_call_id": "call_tool_texto",
+        "content": "Search results for texto: ..."
+    },
+    {"role": "user", "content": "are there any shoes less than $50?"},
+    {"role": "assistant", "tool_calls": [
+        {
+            "id": "call_tool_categoria",
+            "type": "function",
+            "function": {
+                "arguments": "{\"search_query\":\"lei\",\"categoria_filter\":{\"comparison_operator\":\"=\",\"value\":\"CLT Art. 134\"}}",
+                "name": "search_database"
+            }
+        }
+    ]},
+    {
+        "role": "tool",
+        "tool_call_id": "call_tool_categoria",
+        "content": "Search results for categoria: ..."
+    }
+]

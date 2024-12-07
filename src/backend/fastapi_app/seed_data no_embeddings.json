@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "categoria": "CLT Art. 129",
+      "nome": "Quando o trabalhador tem direito a férias?",
+      "texto": "Todo trabalhador que cumpre um ano de trabalho tem direito a 30 dias de férias remuneradas."
+    },
+    {
+      "id": 2,
+      "categoria": "CLT Art. 130",
+      "nome": "Quantos dias de férias tenho se não trabalhei o ano todo?",
+      "texto": "Se o trabalhador não trabalhou o ano completo, ele tem direito a férias proporcionais, que variam conforme os meses trabalhados."
+    },
+    {
+      "id": 3,
+      "categoria": "CLT Art. 134",
+      "nome": "O empregador pode decidir quando eu tiro férias?",
+      "texto": "Sim, o empregador pode decidir o período das férias, mas deve comunicar o trabalhador com antecedência mínima de 30 dias."
+    },
+    {
+      "id": 4,
+      "categoria": "CLT Art. 137",
+      "nome": "O que acontece se minhas férias não forem concedidas?",
+      "texto": "Se as férias não forem concedidas no período correto, o empregador deve pagar a remuneração das férias em dobro."
+    },
+    {
+      "id": 5,
+      "categoria": "CLT Art. 143",
+      "nome": "Posso vender parte das minhas férias?",
+      "texto": "Sim, o trabalhador pode vender até um terço de suas férias, recebendo a remuneração correspondente."
+    },
+    {
+      "id": 6,
+      "categoria": "CLT Art. 145",
+      "nome": "Quando devo receber o pagamento das férias?",
+      "texto": "O pagamento das férias deve ser feito pelo menos dois dias antes do início do período de férias."
+    },
+    {
+      "id": 7,
+      "categoria": "CLT Art. 136",
+      "nome": "Posso dividir minhas férias em períodos menores?",
+      "texto": "Sim, as férias podem ser divididas em até três períodos, sendo que um deles deve ter pelo menos 14 dias."
+    },
+    {
+      "id": 8,
+      "categoria": "CLT Art. 139",
+      "nome": "As férias coletivas são permitidas?",
+      "texto": "Sim, o empregador pode conceder férias coletivas a todos os empregados ou a setores específicos da empresa."
+    },
+    {
+      "id": 9,
+      "categoria": "CLT Art. 147",
+      "nome": "Menores de 18 anos têm regras diferentes para férias?",
+      "texto": "Sim, menores de 18 anos devem ter suas férias coincidentes com as férias escolares."
+    },
+    {
+      "id": 10,
+      "categoria": "CLT Art. 145",
+      "nome": "Recebo o mesmo salário durante as férias?",
+      "texto": "Sim, durante as férias, o trabalhador deve receber a remuneração integral, acrescida de um terço do salário."
+    }
+]
+  
